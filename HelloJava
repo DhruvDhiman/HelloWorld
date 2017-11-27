@@ -1,0 +1,11 @@
+Class HelloWorld
+{
+  public void printFunction()
+  {
+    System.out.println("Java after an year!");
+  }
+  
+}
+
+HelloWorld hello = new HelloWorld();
+hello.printFunction();
